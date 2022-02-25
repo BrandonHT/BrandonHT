@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonHT
 - 👀 I’m interested in Data science, Machine learning and Software development
-- 🌱 I’m currently learning Data engineering processes and computer vision applications
+- 🌱 I’m currently learning statistics, data science processes and computer vision applications
 - 💞️ I’m looking to collaborate on development of data science and machine learning methods to find solutions and process optimization
 
 <!---
