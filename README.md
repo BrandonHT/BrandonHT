@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonHT
 - 👀 I’m interested in data science, machine learning, computer vision and research
-- 🌱 Currently enrolled into a master in data science
+- 🌱 Graduated from a Master in Data science
 - 💞️ I’m looking to collaborate on development of data science and machine learning solutions and process optimization
 
 <!---
